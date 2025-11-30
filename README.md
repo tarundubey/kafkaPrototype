@@ -1,3 +1,6 @@
+Checkout my [medium article for this prototype here ](https://medium.com/@tarunkumardubey6793/understanding-kafka-from-scratch-concepts-flow-and-real-examples-818fea6f8504)
+Also - you can [check the handbook in this doc](https://docs.google.com/document/d/11wsnakDdhI847snB4WvImbg5tpBRpH6WCd0-0q04vEk/edit?tab=t.0)
+
 # Kafka Prototype
 
 A simplified implementation of Apache Kafka's core concepts, including:
