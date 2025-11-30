@@ -2,6 +2,10 @@ Checkout my [medium article for this prototype here ](https://medium.com/@tarunk
 
 You can [check the dev handbook in this doc](https://docs.google.com/document/d/11wsnakDdhI847snB4WvImbg5tpBRpH6WCd0-0q04vEk/edit?tab=t.0)
 
+Disclaimer: Major portion of tests and some portion of demo is generated using LLM. However base classes are majorly written by author 
+
+Note: To deep dive - go step by step and read comments for clarification
+
 # Kafka Prototype
 
 A simplified implementation of Apache Kafka's core concepts, including:
